@@ -9,6 +9,8 @@ One of the best features of the project is the mailing system. The user receives
 
 Note: For demonstration purposes only, the payment page was developed; it is not completely integrated with any payment gateway. Therefore, the demo orders will be placed for the time being with any payment card information.
 
+Deployment link:[https://mindful-adventure-production-58fa7ac6.up.railway.app/RevShop/](https://mindful-adventure-production-58fa7ac6.up.railway.app/RevShop/)   
+
 ### Technologies used:-
 1. Front-End Development:
 - HTML
